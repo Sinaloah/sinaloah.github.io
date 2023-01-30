@@ -126,7 +126,7 @@ navLinks.forEach((link) => {
 
 
 let portfolioCards = [
-  { title: 'Vanilla Css Grid System Demo', category: 'css', difficulty: 5, url: 'https://sinaloah.github.io/grid/', color: 'rgb(137, 42, 78)', link:'#home' },
+  { title: 'Vanilla Css Grid System Demo', category: 'css', difficulty: 5, url: './media/flexbox_bg.jpg', color: 'rgb(137, 42, 78)', link:'https://sinaloah.github.io/grid/' },
   { title: 'Sinaloah Website Demo', category: 'websites', difficulty: 8, url: './media/sinaloah_bg.jpg', color: 'rgb(42, 137, 134)', link:'#home' },
 ]
 
